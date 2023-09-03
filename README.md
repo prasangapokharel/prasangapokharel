@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://th.bing.com/th/id/OIP.CbLxrWH2VqSYFxb3DBWZmAHaIc?pid=ImgDet&rs=1" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width = 250px></picture>
 
 <br>
 
