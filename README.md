@@ -10,8 +10,7 @@
 
 
 <h3><b><i>Visitors :</i></b></h3>
-
-![Visitor Count](https://github.com/prasangapokharel/count.sv)
+![](https://komarev.com/ghpvc/?username=prasangapokharel&color=green)
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
