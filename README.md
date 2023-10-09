@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python, Php, JavaScript**
 
-- 👨‍💻 Personal website [https://www.prasangapokharel.com.np/](https://www.prasangapokharel.com.np/)
+- 👨‍💻 Personal website [prasangapokharel.com.np](https://www.prasangapokharel.com.np/)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **prasangaramanpokharel@gmail.com**
 
-- 📄 Know about my experiences [https://read.cv/prasanga741](https://read.cv/prasanga741)
+- 📄 Know about my experiences [resume](https://read.cv/prasanga741)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
