@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently experting on **python**
 
-- 🌱 I’m currently learning **Python, Php, JavaScript**
+- 🌱 I’m currently learning **Python, Flask, Php, JavaScript**
 
 - 👨‍💻 Personal website [prasangapokharel.com.np](https://www.prasangapokharel.com.np/)
 
