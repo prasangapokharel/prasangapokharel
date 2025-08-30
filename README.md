@@ -1,11 +1,11 @@
 # 🌟 Hey there, I'm Prasanga Pokharel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,26&height=200&section=header&text=Digital%20Creator%20%F0%9F%9A%80&fontSize=40&fontAlignY=35&desc=Crafting%20extraordinary%20web%20experiences&descAlignY=55&descAlign=center&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,26&height=120&section=header&text=Web%20Developer&fontSize=30&fontAlignY=65&fontColor=ffffff" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+Self-taught+Frontend+Developer;%F0%9F%90%8D+Python+%26+Flask+Enthusiast;%F0%9F%8E%A8+UI%2FUX+Design+Lover;%F0%9F%94%A5+Always+pushing+boundaries" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Python+%26+Flask+Expert;UI%2FUX+Enthusiast" alt="Dynamic Typing" />
 </div>
 
 <br>
@@ -21,29 +21,14 @@
 
 class PrasangaPokharel:
     def __init__(self):
-        self.username = "prasangapokharel"
-        self.role = "Full Stack Web Developer"
-        self.base_location = "Nepal 🇳🇵"
+        self.role = "Full Stack Developer"
+        self.location = "Nepal 🇳🇵"
         self.languages = ["Python", "PHP", "JavaScript", "HTML5", "CSS3"]
-        self.frameworks = ["Flask", "Bootstrap", "jQuery"]
-        self.currently_learning = ["Advanced Flask", "Modern JS", "API Design"]
-        self.passion = "Building digital solutions that make a difference"
-        self.mindset = "Code. Create. Innovate. Repeat."
-    
-    def get_daily_routine(self):
-        return [
-            "☕ Start with coffee and code review",
-            "💻 Build amazing web applications",
-            "📚 Learn new technologies",
-            "🔧 Optimize and refine existing projects",
-            "🌟 Share knowledge with the community"
-        ]
+        self.frameworks = ["Flask", "Bootstrap"]
+        self.passion = "Building digital solutions"
     
     def connect_with_me(self):
-        return "Let's build the future together! 🚀"
-
-developer = PrasangaPokharel()
-print(developer.connect_with_me())
+        return "Let's build something amazing! 🚀"
 ```
 
 ---
@@ -143,27 +128,23 @@ print(developer.connect_with_me())
 ---
 
 <div align="center">
-  <h2>🎯 <strong>CURRENT MISSION</strong></h2>
+  <h2>🎯 <strong>CURRENT FOCUS</strong></h2>
 </div>
 
 ```yaml
-🚀 Active Projects:
-  - Building responsive web applications with Flask
-  - Creating stunning UI/UX designs
-  - Developing RESTful APIs
-  - Optimizing database performance
+🚀 Building:
+  - Flask web applications
+  - Responsive UI designs
+  - RESTful APIs
 
-🎓 Learning Path:
-  - Advanced Python frameworks
-  - Modern JavaScript (ES6+)
-  - Database management systems
-  - Cloud deployment strategies
+🎓 Learning:
+  - Advanced Python
+  - Modern JavaScript
+  - Database optimization
 
-💡 Next Goals:
+💡 Goals:
   - Open source contributions
-  - Tech community engagement
-  - Freelance project expansion
-  - Knowledge sharing through blogs
+  - Community engagement
 ```
 
 ---
