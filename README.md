@@ -1,12 +1,5 @@
 # 🌟 Hey there, I'm Prasanga Pokharel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,26&height=120&section=header&text=Web%20Developer&fontSize=30&fontAlignY=65&fontColor=ffffff" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Python+%26+Flask+Expert;UI%2FUX+Enthusiast" alt="Dynamic Typing" />
-</div>
 
 <br>
 
