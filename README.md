@@ -61,12 +61,12 @@ me.say_hi()
 
 ### 💻 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
 </p>
 
 ### 🚀 **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap,photoshop,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,git,github,vscode" />
 </p>
 
 </div>
