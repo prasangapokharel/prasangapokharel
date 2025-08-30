@@ -7,7 +7,6 @@
 </div>
 
 ```python
-#!/usr/bin/env python3
 
 class PrasangaPokharel:
     def __init__(self):
