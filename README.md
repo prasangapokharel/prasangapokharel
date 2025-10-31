@@ -223,10 +223,76 @@ const prasanga = {
 
 ---
 
-## 💭 **RANDOM DEV QUOTE**
+## 💼 **WORK EXPERIENCE & EXPERTISE**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### **Technologies I Work With**
+
+<table style="border: none;">
+  <tr>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/>
+      <br><sub><b>Redis</b></sub>
+      <br><sub>Caching & Sessions</sub>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/>
+      <br><sub><b>Next.js</b></sub>
+      <br><sub>SSR & React Framework</sub>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+      <br><sub>Backend Development</sub>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP"/>
+      <br><sub><b>PHP</b></sub>
+      <br><sub>Server-Side Scripting</sub>
+    </td>
+    <td align="center" width="20%" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+      <br><sub>Database Management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center" style="border: none; padding-top: 20px;">
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase"/>
+      <br><sub><b>Supabase</b></sub>
+      <br><sub>Backend as a Service & PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
+
+### **What I Build With These Technologies**
+
+```javascript
+const expertise = {
+    redis: {
+        experience: "High-performance caching solutions",
+        skills: ["Session Management", "Real-time Data", "Queue Systems"]
+    },
+    nextjs: {
+        experience: "Modern React applications with SSR",
+        skills: ["Full-stack Apps", "API Routes", "SEO Optimization"]
+    },
+    python: {
+        experience: "Backend APIs and automation",
+        skills: ["Flask APIs", "Data Processing", "Web Scraping"]
+    },
+    php: {
+        experience: "Dynamic web applications",
+        skills: ["Custom CMS", "E-commerce", "REST APIs"]
+    },
+    databases: {
+        mysql: "Relational database design & optimization",
+        supabase: "Real-time subscriptions & authentication"
+    }
+};
+```
+
 </div>
 
 ---
