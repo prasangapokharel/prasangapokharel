@@ -11,9 +11,11 @@ const prasanga = {
     role: "Full Stack Developer",
     location: "Nepal",
     languages: ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-    frameworks: ["Flask", "Next.js", "Bootstrap"],
-    databases: ["MySQL", "PostgreSQL", "Supabase", "Redis"],
-    currentFocus: "Building scalable web applications and RESTful APIs"
+    frameworks: ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
+    databases: ["MySQL", "Supabase", "Redis"],
+    cloud: ["Cloudinary", "Supabase"],
+    blockchain: ["Smart Contracts", "Web3 Integration"],
+    currentFocus: "Building scalable web applications and high-performance APIs"
 };
 ```
 
@@ -29,13 +31,19 @@ const prasanga = {
 Python | PHP | JavaScript | TypeScript | HTML5 | CSS3
 
 **Frameworks & Libraries**  
-Flask | Next.js | React | Bootstrap | Tailwind CSS
+Django | FastAPI | Flask | Next.js | React | shadcn/ui | Tailwind CSS
 
 **Databases & Caching**  
-MySQL | PostgreSQL | Supabase | Redis
+MySQL | Supabase | Redis
+
+**Cloud & Storage**  
+Cloudinary | Supabase | Vercel
+
+**Blockchain**  
+Smart Contracts | Web3 Integration | Decentralized Applications
 
 **Tools & Platforms**  
-Git | GitHub | Docker | AWS | DigitalOcean | Vercel
+Git | GitHub | Postman | VS Code
 
 </div>
 
@@ -45,47 +53,51 @@ Git | GitHub | Docker | AWS | DigitalOcean | Vercel
 
 ```yaml
 Backend Development:
+  - Full-featured web applications with Django
+  - High-performance APIs with FastAPI
   - RESTful APIs with Flask
   - Authentication & Authorization Systems
   - Database Design & Optimization
-  - Real-time Data Processing with Redis
+  - Real-time Data Processing and Caching with Redis
 
 Frontend Development:
-  - Server-Side Rendered Applications (Next.js)
-  - Responsive & Accessible UI/UX
-  - Single Page Applications (SPA)
-  - Modern Component-Based Architecture
+  - Server-Side Rendered Applications with Next.js
+  - Modern UI Components with shadcn/ui
+  - Responsive & Accessible Interfaces
+  - Type-safe Component Architecture
+
+Blockchain Development:
+  - Smart Contract Development
+  - Web3 Integration & DApps
+  - Decentralized Application Architecture
+  - Blockchain-based Solutions
+
+Cloud & Storage:
+  - Media Management with Cloudinary
+  - Database & Authentication with Supabase
+  - File Storage & CDN Integration
+  - Real-time Subscriptions
 
 Full Stack Projects:
   - E-commerce Platforms
   - Content Management Systems
   - Business & Portfolio Websites
   - Data-Driven Web Applications
+  - Blockchain-powered Applications
 ```
 
 ---
 
 ## Current Focus (2025)
 
-- Building production-ready Flask applications with advanced patterns
-- Mastering modern JavaScript (ES6+) and TypeScript
-- Database optimization and query performance tuning
-- Cloud deployment and DevOps practices
+- Building scalable applications with Django framework
+- Developing high-performance APIs with FastAPI
+- Mastering Next.js with shadcn/ui component library
+- Implementing Redis caching strategies for scalability
+- Media management and optimization with Cloudinary
+- Real-time features with Supabase
+- Exploring blockchain technology and Web3 integration
 - Contributing to open source projects
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasanga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanga&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasanga&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
-
-</div>
 
 ---
 
@@ -99,50 +111,22 @@ Full Stack Projects:
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Project Name 1
-Full-stack web application built with Flask and Next.js
-- RESTful API architecture
-- Real-time data synchronization
-- Responsive design
-
-[View Repository →](https://github.com/prasanga/project1)
-
-</td>
-<td width="50%">
-
-### Project Name 2
-E-commerce platform with advanced features
-- Payment gateway integration
-- Inventory management system
-- Admin dashboard
-
-[View Repository →](https://github.com/prasanga/project2)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Work Experience
 
 **Backend Development**  
-Building robust APIs with Flask, implementing authentication systems, database design, and optimization for high-performance applications.
+Building scalable web applications with Django, developing high-performance APIs with FastAPI and Flask, implementing authentication systems, and optimizing MySQL databases with Redis caching for real-time processing.
 
 **Frontend Development**  
-Creating modern, responsive interfaces using Next.js and React with focus on user experience and accessibility.
+Creating modern, responsive interfaces using Next.js with shadcn/ui component library, focusing on type-safe development and exceptional user experience.
 
-**Database Management**  
-Designing and optimizing MySQL and PostgreSQL databases, implementing caching strategies with Redis, and utilizing Supabase for real-time applications.
+**Blockchain Development**  
+Developing smart contracts, integrating Web3 technologies into applications, and building decentralized application architectures for blockchain-powered solutions.
 
-**DevOps & Deployment**  
-Managing cloud infrastructure on AWS and DigitalOcean, containerization with Docker, and CI/CD pipeline automation.
+**Cloud & Storage Solutions**  
+Managing media assets with Cloudinary for optimization and delivery, utilizing Supabase for database, authentication, and real-time features, and implementing efficient storage strategies.
+
+**Deployment**  
+Deploying production applications with CI/CD pipelines on modern hosting platforms.
 
 ---
 
