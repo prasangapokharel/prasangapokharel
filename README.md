@@ -1,88 +1,157 @@
-<div align="center">PRASANGA POKHAREL</div>
+# Prasanga - Full Stack Developer
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26weight%3D600%26size%3D24%26duration%3D3000%26pause%3D1500%26color%3D000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DFull%2BStack%2BDeveloper%3BBuilding%2BScalable%2BSolutions%3BPython%2B%257C%2BPHP%2B%257C%2BJavaScript%3BCrafting%2BDigital%2BExperiences" alt="Typing SVG" />
+Building scalable web applications with modern technologies.
+
+---
+
+## About
+
+```typescript
+const prasanga = {
+    role: "Full Stack Developer",
+    location: "Nepal",
+    languages: ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    frameworks: ["Flask", "Next.js", "Bootstrap"],
+    databases: ["MySQL", "PostgreSQL", "Supabase", "Redis"],
+    currentFocus: "Building scalable web applications and RESTful APIs"
+};
+```
+
+---
+
+## Technical Skills
+
+### Core Technologies
+
+<div align="left">
+
+**Languages**  
+Python | PHP | JavaScript | TypeScript | HTML5 | CSS3
+
+**Frameworks & Libraries**  
+Flask | Next.js | React | Bootstrap | Tailwind CSS
+
+**Databases & Caching**  
+MySQL | PostgreSQL | Supabase | Redis
+
+**Tools & Platforms**  
+Git | GitHub | Docker | AWS | DigitalOcean | Vercel
+
 </div>
 
-<p align="center">
-A developer focused on building robust, performant web applications and clean architectures. Based in Nepal, working across the full stack to solve complex problems with logical code.
-</p>
+---
 
-Profile Summary
+## What I Build
 
-{
-  name: "Prasanga Pokharel",
-  role: "Full Stack Developer",
-  location: "Nepal",
-  core: ["Python", "PHP", "JavaScript"],
-  frameworks: ["Flask", "Next.js", "Bootstrap"],
-  focus: "Scalable Web Applications & API Architecture",
-  philosophy: "Logic over syntax. Clarity over complexity."
-}
+```yaml
+Backend Development:
+  - RESTful APIs with Flask
+  - Authentication & Authorization Systems
+  - Database Design & Optimization
+  - Real-time Data Processing with Redis
 
+Frontend Development:
+  - Server-Side Rendered Applications (Next.js)
+  - Responsive & Accessible UI/UX
+  - Single Page Applications (SPA)
+  - Modern Component-Based Architecture
 
-Technical Expertise
+Full Stack Projects:
+  - E-commerce Platforms
+  - Content Management Systems
+  - Business & Portfolio Websites
+  - Data-Driven Web Applications
+```
 
-<table width="100%">
+---
+
+## Current Focus (2025)
+
+- Building production-ready Flask applications with advanced patterns
+- Mastering modern JavaScript (ES6+) and TypeScript
+- Database optimization and query performance tuning
+- Cloud deployment and DevOps practices
+- Contributing to open source projects
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasanga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanga&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasanga&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## Connect
+
+**Professional**  
+[Portfolio](https://prasanga.com.np) | [LinkedIn](https://linkedin.com/in/prasanga) | [Email](mailto:contact@prasanga.com.np)
+
+**Development**  
+[GitHub](https://github.com/prasanga) | [Stack Overflow](https://stackoverflow.com/users/prasanga)
+
+---
+
+## Featured Projects
+
+<table>
 <tr>
-<td width="50%" valign="top">
-<h4>Languages & Frameworks</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,php,js,nextjs,flask,bootstrap,html,css%26theme%3Dlight" alt="Tech Stack" />
+<td width="50%">
+
+### Project Name 1
+Full-stack web application built with Flask and Next.js
+- RESTful API architecture
+- Real-time data synchronization
+- Responsive design
+
+[View Repository →](https://github.com/prasanga/project1)
+
 </td>
-<td width="50%" valign="top">
-<h4>Tools & Environment</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,mysql,supabase,redis,linux,vscode,ps%26theme%3Dlight" alt="Tools" />
+<td width="50%">
+
+### Project Name 2
+E-commerce platform with advanced features
+- Payment gateway integration
+- Inventory management system
+- Admin dashboard
+
+[View Repository →](https://github.com/prasanga/project2)
+
 </td>
 </tr>
 </table>
 
-Development Statistics
+---
 
-<div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dprasangapokharel%26show_icons%3Dtrue%26theme%3Dflat%26hide_border%3Dtrue%26title_color%3D000000%26icon_color%3D666666%26text_color%3D333333%26bg_color%3Dffffff%26count_private%3Dtrue%26include_all_commits%3Dtrue" width="400px" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dprasangapokharel%26layout%3Dcompact%26theme%3Dflat%26hide_border%3Dtrue%26title_color%3D000000%26text_color%3D333333%26bg_color%3Dffffff%26langs_count%3D6" width="300px" />
-</td>
-</tr>
-</table>
-</div>
+## Work Experience
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dprasangapokharel%26bg_color%3Dffffff%26color%3D000000%26line%3D666666%26point%3D000000%26area%3Dtrue%26area_color%3Df0f0f0%26hide_border%3Dtrue%26custom_title%3DContribution%2BActivity" width="100%" />
-</div>
+**Backend Development**  
+Building robust APIs with Flask, implementing authentication systems, database design, and optimization for high-performance applications.
 
-Key Competencies
+**Frontend Development**  
+Creating modern, responsive interfaces using Next.js and React with focus on user experience and accessibility.
 
-Backend: Developing RESTful APIs using Python (Flask) and PHP. Managing sessions and caching with Redis.
+**Database Management**  
+Designing and optimizing MySQL and PostgreSQL databases, implementing caching strategies with Redis, and utilizing Supabase for real-time applications.
 
-Frontend: Building responsive, SEO-optimized interfaces with Next.js and modern CSS frameworks.
+**DevOps & Deployment**  
+Managing cloud infrastructure on AWS and DigitalOcean, containerization with Docker, and CI/CD pipeline automation.
 
-Database: Designing relational schemas in MySQL and leveraging Supabase for real-time data and authentication.
-
-DevOps: Version control with Git, automation, and deploying to Linux-based environments.
-
-Connect
+---
 
 <div align="center">
 
-Portfolio
+### "First, solve the problem. Then, write the code." - John Johnson
 
-LinkedIn
+Made with dedication and strong coffee
 
-Email
+[⬆ Back to Top](#prasanga---full-stack-developer)
 
-CV
-
-Twitter
-
-</div>
-
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D60%26section%3Dfooter%26text%3DSOLVE%2BTHE%2BPROBLEM.%2BTHEN%2BWRITE%2BTHE%2BCODE.%26fontSize%3D18%26fontColor%3Dffffff" width="100%">
 </div>
