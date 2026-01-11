@@ -132,7 +132,7 @@ Deploying production applications with CI/CD pipelines on modern hosting platfor
 
 <div align="center">
 
-### "First, solve the problem. Then, write the code." - John Johnson
+### On agentic engine for automation - Currently Working
 
 Made with dedication and strong coffee
 
