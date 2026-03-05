@@ -8,7 +8,7 @@
   </div>
 
   <div>
-    <img src="./1.gif" alt="Prasanga" style="height:90px; max-width:100%;" />
+    <img src="./1.gif" alt="Prasanga" style="height:40px; max-width:40px;" />
   </div>
 </div>
 
