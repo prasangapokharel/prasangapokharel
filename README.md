@@ -7,9 +7,6 @@
     </p>
   </div>
 
-  <div>
-    <img src="./1.gif" alt="Prasanga" style="height:40px; max-width:40px;" />
-  </div>
 </div>
 
 ---
