@@ -1,96 +1,121 @@
+# Prasanga — Full Stack Developer
 
-```markdown
-# ⚡ Prasanga | Full Stack Architect
-### `Building the bridge between Web2 Stability and Web3 Autonomy`
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
+  <div>
+    <p style="margin:0;">
+      <em>Building scalable web applications and high-performance APIs with modern technologies.</em>
+    </p>
+  </div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Nepal-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Autonomous_Agents-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript_%26_Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 System Profile
-> **Status:** `Actively Engineering Scalable Systems`
-> **Philosophy:** *Write code that scales, build agents that think.*
+## About
 
 ```typescript
-const Prasanga = {
-  core: ["Scalable Architecture", "High-Perf APIs", "Smart Contracts"],
-  currentProject: "Autonomous Agent Engine 🤖",
-  motto: "Turning complex logic into seamless experiences",
-  tools: {
-    backend: ["FastAPI", "Django", "Node.js"],
-    frontend: ["Next.js 14+", "Shadcn/ui", "Tailwind"],
-    persistence: ["Redis", "Supabase", "PostgreSQL"]
-  }
+const prasanga = {
+    role        : "Full Stack Developer",
+    location    : "Nepal",
+    languages   : ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    frameworks  : ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
+    databases   : ["MySQL", "Supabase", "Redis"],
+    cloud       : ["Cloudinary", "Supabase", "Vercel"],
+    blockchain  : ["Smart Contracts", "Web3 Integration"],
+    currentFocus: "Autonomous Agent Engine",
 };
-
 ```
 
 ---
 
-## 🛠 Tech Universe
+## Technical Skills
 
-### 🛰️ Backend & Intelligence
+### Languages
 
-### 🎨 Frontend & UI/UX
+| Python | PHP | JavaScript | TypeScript | HTML5 | CSS3 |
+|--------|-----|------------|------------|-------|------|
 
-### ⛓️ Blockchain & Cloud
+### Frameworks & Libraries
 
----
+| Django | FastAPI | Flask | Next.js | React | shadcn/ui | Tailwind CSS |
+|--------|---------|-------|---------|-------|-----------|--------------|
 
-## 🏗️ Featured Engineering
+### Databases & Caching
 
-### 🤖 Autonomous Agent Engine
+| MySQL | Supabase | Redis |
+|-------|----------|-------|
 
-**Focus:** Developing self-correcting AI workflows that handle multi-step reasoning.
+### Cloud & Storage
 
-* *Key Tech:* FastAPI, LangChain, Redis, Vector Databases.
+| Cloudinary | Supabase | Vercel |
+|------------|----------|--------|
 
-### 🌐 Scalable Web Ecosystems
+### Blockchain
 
-**Focus:** High-traffic e-commerce and CMS solutions that don't sweat under load.
+| Smart Contracts | Web3 Integration | Decentralized Applications |
+|-----------------|------------------|---------------------------|
 
-* *Key Tech:* Next.js (App Router), Django Rest Framework, Cloudinary.
+### Tools & Platforms
 
-### 💎 Web3 & Decentralization
-
-**Focus:** Secure Smart Contracts and DApp integration for the future of finance.
-
-* *Key Tech:* Solidity, Wagmi, Supabase Auth.
-
----
-
-## 📊 Git Stats & Activity
-
-<p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dprasanga%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dprasanga%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</p>
+| Git | GitHub | Postman | VS Code |
+|-----|--------|---------|---------|
 
 ---
 
-## 📬 Connect with the Core
+## What I Build
 
-| Gateway | Link |
-| --- | --- |
-| **Portfolio** | [prasanga.com.np](https://prasanga.com.np) |
-| **LinkedIn** | [in/prasanga](https://linkedin.com/in/prasanga) |
-| **GitHub** | [@prasanga](https://github.com/prasanga) |
-| **Email** | [contact@prasanga.com.np](mailto:contact@prasanga.com.np) |
+| Domain | Focus Areas |
+|--------|-------------|
+| **Backend Development** | Full-featured web applications with Django, high-performance APIs with FastAPI, RESTful APIs with Flask, authentication and authorization systems, database design and optimization, real-time data processing and caching with Redis |
+| **Frontend Development** | Server-side rendered applications with Next.js, modern UI components with shadcn/ui, responsive and accessible interfaces, type-safe component architecture |
+| **Blockchain Development** | Smart contract development, Web3 integration and DApps, decentralized application architecture, blockchain-based solutions |
+| **Cloud & Storage** | Media management with Cloudinary, database and authentication with Supabase, file storage and CDN integration, real-time subscriptions |
+| **Full Stack Projects** | E-commerce platforms, content management systems, business and portfolio websites, data-driven web applications, blockchain-powered applications |
 
 ---
 
-<p align="center">
-<i>"Simplicity is the soul of efficiency."</i>
+## Work Experience
 
+**Backend Development**
+Building scalable web applications with Django, developing high-performance APIs with FastAPI and Flask, implementing authentication systems, and optimizing MySQL databases with Redis caching for real-time processing.
 
+**Frontend Development**
+Creating modern, responsive interfaces using Next.js with shadcn/ui component library, focusing on type-safe development and exceptional user experience.
 
+**Blockchain Development**
+Developing smart contracts, integrating Web3 technologies into applications, and building decentralized application architectures for blockchain-powered solutions.
 
-<b>Built with ☕ and Code</b>
-</p>
+**Cloud & Storage Solutions**
+Managing media assets with Cloudinary for optimization and delivery, utilizing Supabase for database, authentication, and real-time features, and implementing efficient storage strategies.
 
-```
+**Deployment**
+Deploying production applications with CI/CD pipelines on modern hosting platforms.
 
+---
+
+## Current Focus — 2025
+
+| Area | Status |
+|------|--------|
+| Autonomous Agent Engine | In Progress |
+| Scalable applications with Django | Active |
+| High-performance APIs with FastAPI | Active |
+| Next.js with shadcn/ui | Active |
+| Redis caching strategies | Active |
+| Media management with Cloudinary | Active |
+| Real-time features with Supabase | Active |
+| Blockchain and Web3 integration | Exploring |
+| Open source contributions | Ongoing |
+
+---
+
+## Connect
+
+| Type | Links |
+|------|-------|
+| **Professional** | [Portfolio](https://prasanga.com.np) · [LinkedIn](https://linkedin.com/in/prasanga) · [Email](mailto:contact@prasanga.com.np) |
+| **Development** | [GitHub](https://github.com/prasanga) · [Stack Overflow](https://stackoverflow.com/users/prasanga) |
+
+---
+
+*Made with dedication and strong coffee.*
