@@ -3,7 +3,7 @@
 <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
   <div>
     <p style="margin:0;">
-      <em>Building scalable web applications and high-performance APIs with modern technologies.</em>
+      <em>I work on mono-repo folder structure to build scalable web applications and  APIsW.</em>
     </p>
   </div>
 
