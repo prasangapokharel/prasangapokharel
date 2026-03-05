@@ -1,7 +1,16 @@
 # Prasanga — Full Stack Developer
 
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
+  <div>
+    <p style="margin:0;">
+      <em>Building scalable web applications and high-performance APIs with modern technologies.</em>
+    </p>
+  </div>
 
-> Building scalable web applications and high-performance APIs with modern technologies.
+  <div>
+    <img src="./1.gif" alt="Prasanga" style="height:90px; max-width:100%;" />
+  </div>
+</div>
 
 ---
 
