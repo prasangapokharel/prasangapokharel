@@ -1,174 +1,96 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=160&section=header&text=Prasanga&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full+Stack+Developer&descSize=20&descAlignY=65&animation=fadeIn" width="100%"/>
+```markdown
+# ⚡ Prasanga | Full Stack Architect
+### `Building the bridge between Web2 Stability and Web3 Autonomy`
 
-<h2>Prasanga ✔️</h2>
-
-<img src="https://img.shields.io/badge/Verified-Developer-000000?style=flat-square&logo=checkmarx&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Nepal-%F0%9F%87%B3%F0%9F%87%B5-000000?style=flat-square"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=prasangapokhare1&style=flat-square&color=000000&label=views"/>
-
-</div>
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td width="60%" valign="middle">
-      <p><em>Building scalable web applications and high-performance APIs with modern technologies.</em></p>
-      <ul>
-        <li>🔭 Building an <strong>Autonomous Agent Engine</strong></li>
-        <li>🌱 Exploring <strong>AI · Blockchain · Full Stack</strong></li>
-        <li>📍 Based in <strong>Nepal</strong></li>
-        <li>☕ Fueled by strong coffee and clean code</li>
-      </ul>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Nepal-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous_Agents-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript_%26_Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-### About
+## 👨‍💻 System Profile
+> **Status:** `Actively Engineering Scalable Systems`
+> **Philosophy:** *Write code that scales, build agents that think.*
 
 ```typescript
-const prasanga = {
-  role        : "Full Stack Developer ✔️",
-  location    : "Nepal",
-  languages   : ["Python", "PHP", "JavaScript", "TypeScript"],
-  frameworks  : ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
-  databases   : ["MySQL", "Supabase", "Redis"],
-  cloud       : ["Cloudinary", "Supabase", "Vercel"],
-  blockchain  : ["Smart Contracts", "Web3"],
-  currentFocus: "Autonomous Agent Engine",
-  motto       : "Ship fast. Scale smart. Break nothing.",
+const Prasanga = {
+  core: ["Scalable Architecture", "High-Perf APIs", "Smart Contracts"],
+  currentProject: "Autonomous Agent Engine 🤖",
+  motto: "Turning complex logic into seamless experiences",
+  tools: {
+    backend: ["FastAPI", "Django", "Node.js"],
+    frontend: ["Next.js 14+", "Shadcn/ui", "Tailwind"],
+    persistence: ["Redis", "Supabase", "PostgreSQL"]
+  }
 };
+
 ```
 
 ---
 
-### Tech Stack
+## 🛠 Tech Universe
 
-<div align="center">
+### 🛰️ Backend & Intelligence
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+### 🎨 Frontend & UI/UX
 
-![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-000?style=flat-square&logo=cloudinary&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-000?style=flat-square&logo=web3.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=white)
-
-</div>
+### ⛓️ Blockchain & Cloud
 
 ---
 
-### What I Build
+## 🏗️ Featured Engineering
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Backend</b><br/>
-      Django · FastAPI · Flask · auth systems · Redis caching · DB optimization
-    </td>
-    <td width="50%" valign="top">
-      <b>Frontend</b><br/>
-      Next.js · shadcn/ui · Tailwind · type-safe components · SSR
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>Blockchain</b><br/>
-      Smart contracts · Web3 integration · DApps architecture
-    </td>
-    <td valign="top">
-      <b>Cloud & Storage</b><br/>
-      Cloudinary · Supabase auth & real-time · Vercel deploys
-    </td>
-  </tr>
-</table>
+### 🤖 Autonomous Agent Engine
+
+**Focus:** Developing self-correcting AI workflows that handle multi-step reasoning.
+
+* *Key Tech:* FastAPI, LangChain, Redis, Vector Databases.
+
+### 🌐 Scalable Web Ecosystems
+
+**Focus:** High-traffic e-commerce and CMS solutions that don't sweat under load.
+
+* *Key Tech:* Next.js (App Router), Django Rest Framework, Cloudinary.
+
+### 💎 Web3 & Decentralization
+
+**Focus:** Secure Smart Contracts and DApp integration for the future of finance.
+
+* *Key Tech:* Solidity, Wagmi, Supabase Auth.
 
 ---
 
-### GitHub Stats
+## 📊 Git Stats & Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prasangapokhare1&show_icons=true&theme=graywhite&hide_border=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasangapokhare1&layout=compact&theme=graywhite&hide_border=true" height="160"/>
-
-</div>
+<p align="center">
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dprasanga%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dprasanga%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+</p>
 
 ---
 
-### Focus — 2025
+## 📬 Connect with the Core
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td>Autonomous Agent Engine</td><td><code>in progress</code></td>
-    <td>Django / FastAPI</td><td><code>active</code></td>
-  </tr>
-  <tr>
-    <td>Next.js + shadcn/ui</td><td><code>active</code></td>
-    <td>Redis Caching</td><td><code>active</code></td>
-  </tr>
-  <tr>
-    <td>Supabase Real-time</td><td><code>active</code></td>
-    <td>Blockchain & Web3</td><td><code>exploring</code></td>
-  </tr>
-  <tr>
-    <td>Open Source</td><td><code>ongoing</code></td>
-    <td>Cloudinary CDN</td><td><code>active</code></td>
-  </tr>
-</table>
+| Gateway | Link |
+| --- | --- |
+| **Portfolio** | [prasanga.com.np](https://prasanga.com.np) |
+| **LinkedIn** | [in/prasanga](https://linkedin.com/in/prasanga) |
+| **GitHub** | [@prasanga](https://github.com/prasanga) |
+| **Email** | [contact@prasanga.com.np](mailto:contact@prasanga.com.np) |
 
 ---
 
-### Connect
+<p align="center">
+<i>"Simplicity is the soul of efficiency."</i>
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/prasanga.com.np-000?style=flat-square&logo=firefox&logoColor=white)](https://prasanga.com.np)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanga)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/prasangapokhare1)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@prasanga.com.np)
-&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/prasanga)
 
-</div>
 
-<div align="center">
+<b>Built with ☕ and Code</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer&animation=fadeIn" width="100%"/>
+```
 
-*made with dedication and strong coffee ☕*
-
-</div>
