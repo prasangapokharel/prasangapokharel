@@ -1,121 +1,127 @@
-# Prasanga — Full Stack Developer
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
-  <div>
-    <p style="margin:0;">
-      <em>I work on mono-repo folder structure to build scalable web applications and  APIsW.</em>
-    </p>
-  </div>
 
+```markdown
+<div align="center">
+  <img src="https://thumbs.dreamstime.com/b/vibrant-cyberpunk-scene-features-multiple-floating-displays-showing-web-content-connected-glowing-lines-composition-386063098.jpg" alt="Futuristic AI Network" width="800" style="border-radius:12px; margin-bottom:16px;" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4500&pause=900&color=00FFCC&center=true&vCenter=true&width=680&lines=Prasanga;Full+Stack+%26+Autonomous+AI+Engineer;Building+Thinking+Machines+in+2026" alt="Typing Intro" />
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://prasanga.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-prasanga.com.np-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+  </a> 
+  <a href="https://linkedin.com/in/prasanga">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="mailto:contact@prasanga.com.np">
+    <img src="https://img.shields.io/badge/Email-contact@prasanga.com.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a> 
+  <a href="https://github.com/prasanga">
+    <img src="https://img.shields.io/badge/GitHub-@prasanga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
 ---
 
-## About
+## 🤖 Who I Am — AI × Full Stack × Future
 
 ```typescript
-const prasanga = {
-    role        : "Full Stack Developer",
-    location    : "Nepal",
-    languages   : ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-    frameworks  : ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
-    databases   : ["MySQL", "Supabase", "Redis"],
-    cloud       : ["Cloudinary", "Supabase", "Vercel"],
-    blockchain  : ["Smart Contracts", "Web3 Integration"],
-    currentFocus: "Autonomous Agent Engine",
-};
+interface Prasanga2026 {
+  role:        "Full Stack Developer & Autonomous Agent Engineer";
+  basedIn:     "Nepal 🇳🇵";
+  purpose:     "Designing scalable systems and agents that reason, plan, and act independently";
+  focusNow:    "Autonomous Agent Engine — giving AI real agency and long-term memory";
+  philosophy:  "Mono-repo • Type-safe • Performant • Agent-first mindset";
+  energySource: "Black coffee, ambient synthwave, and recursive curiosity ☕🎧";
+}
 ```
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Autonomous%20Agents-In%20Progress-FF3366?style=flat-square&logo=brain&logoColor=white" alt="Agents"/>
+   
+  <img src="https://img.shields.io/badge/Full%20Stack-Production%20Ready-00CC99?style=flat-square&logo=react&logoColor=white" alt="Full Stack"/>
+   
+  <img src="https://img.shields.io/badge/Web3%20%26%20Blockchain-Exploring-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" alt="Web3"/>
+   
+  <img src="https://img.shields.io/badge/Open%20Source-Active-10B981?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
+</div>
 
-## Technical Skills
+<br/>
 
-### Languages
+## 🛠️ Current Tech Stack — 2026 Edition
 
-| Python | PHP | JavaScript | TypeScript | HTML5 | CSS3 |
-|--------|-----|------------|------------|-------|------|
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css,tailwind,nextjs,react" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,supabase,redis,mysql,vercel,cloudinary" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nodejs" />
+</div>
 
-### Frameworks & Libraries
+### Mastery Zones
+- **Backend** — FastAPI & Django at scale • REST + WebSockets • Auth (JWT/OAuth) • Redis for caching & queues
+- **Frontend** — Next.js App Router + Server Components • shadcn/ui + Tailwind • TypeScript-first UIs
+- **AI & Agents** — LLM orchestration • Tool calling • Memory layers • Autonomous workflows
+- **Infra** — Supabase (Postgres + Auth + Realtime) • Cloudinary media pipeline • Vercel edge deployments
+- **Blockchain** — Smart contracts • Web3 integration • DApp frontends
 
-| Django | FastAPI | Flask | Next.js | React | shadcn/ui | Tailwind CSS |
-|--------|---------|-------|---------|-------|-----------|--------------|
+<br/>
 
-### Databases & Caching
 
-| MySQL | Supabase | Redis |
-|-------|----------|-------|
 
-### Cloud & Storage
 
-| Cloudinary | Supabase | Vercel |
-|------------|----------|--------|
 
-### Blockchain
 
-| Smart Contracts | Web3 Integration | Decentralized Applications |
-|-----------------|------------------|---------------------------|
 
-### Tools & Platforms
 
-| Git | GitHub | Postman | VS Code |
-|-----|--------|---------|---------|
+## 🚀 Active / In-Progress Builds
 
----
+| Focus Area                        | Status      | Key Technologies                     | Goal / Impact                              |
+|-----------------------------------|-------------|--------------------------------------|--------------------------------------------|
+| Autonomous Agent Engine           | 🔴 In Progress | LLM chaining • Memory • Tool use     | True agent autonomy — planning & execution |
+| Scalable Django + Channels Apps   | 🟢 Active   | Django • Celery • Redis              | Reliable, real-time enterprise backends    |
+| Ultra-fast FastAPI Services       | 🟢 Active   | FastAPI • Pydantic v2 • SQLModel     | Type-safe APIs with sub-10ms responses     |
+| Next.js + shadcn/ui Dashboards    | 🟢 Active   | Next.js 15 • Tailwind • Server Actions | Beautiful, performant admin & user UIs     |
+| Supabase Realtime + Edge Functions| 🟢 Active   | Supabase Realtime • Postgres Triggers| Instant sync & serverless logic            |
+| Web3 & Smart Contract Experiments | 🟡 Exploring| Solidity • ethers.js • WalletConnect | Bridging traditional web → decentralized   |
 
-## What I Build
+<br/>
 
-| Domain | Focus Areas |
-|--------|-------------|
-| **Backend Development** | Full-featured web applications with Django, high-performance APIs with FastAPI, RESTful APIs with Flask, authentication and authorization systems, database design and optimization, real-time data processing and caching with Redis |
-| **Frontend Development** | Server-side rendered applications with Next.js, modern UI components with shadcn/ui, responsive and accessible interfaces, type-safe component architecture |
-| **Blockchain Development** | Smart contract development, Web3 integration and DApps, decentralized application architecture, blockchain-based solutions |
-| **Cloud & Storage** | Media management with Cloudinary, database and authentication with Supabase, file storage and CDN integration, real-time subscriptions |
-| **Full Stack Projects** | E-commerce platforms, content management systems, business and portfolio websites, data-driven web applications, blockchain-powered applications |
 
----
 
-## Work Experience
 
-**Backend Development**
-Building scalable web applications with Django, developing high-performance APIs with FastAPI and Flask, implementing authentication systems, and optimizing MySQL databases with Redis caching for real-time processing.
 
-**Frontend Development**
-Creating modern, responsive interfaces using Next.js with shadcn/ui component library, focusing on type-safe development and exceptional user experience.
 
-**Blockchain Development**
-Developing smart contracts, integrating Web3 technologies into applications, and building decentralized application architectures for blockchain-powered solutions.
 
-**Cloud & Storage Solutions**
-Managing media assets with Cloudinary for optimization and delivery, utilizing Supabase for database, authentication, and real-time features, and implementing efficient storage strategies.
 
-**Deployment**
-Deploying production applications with CI/CD pipelines on modern hosting platforms.
+## 🌌 Let's Build the Future Together
 
----
+<div align="center">
+  <a href="https://prasanga.com.np"><img src="https://img.shields.io/badge/🌐-Portfolio-00D4FF?style=for-the-badge" /></a> 
+  <a href="https://linkedin.com/in/prasanga"><img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a> 
+  <a href="https://github.com/prasanga"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github" /></a> 
+  <a href="mailto:contact@prasanga.com.np"><img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail" /></a>
+</div>
 
-## Current Focus — 2025
+<br/>
 
-| Area | Status |
-|------|--------|
-| Autonomous Agent Engine | In Progress |
-| Scalable applications with Django | Active |
-| High-performance APIs with FastAPI | Active |
-| Next.js with shadcn/ui | Active |
-| Redis caching strategies | Active |
-| Media management with Cloudinary | Active |
-| Real-time features with Supabase | Active |
-| Blockchain and Web3 integration | Exploring |
-| Open source contributions | Ongoing |
+<div align="center">
+  <i>Crafted with strong black coffee, neon-lit nights, and a dream of machines that truly think.</i><br/>
+  <sub>2026 — Era of Autonomous Intelligence</sub>
+</div>
 
----
+<br/>
 
-## Connect
+<div align="center">
+  <!-- Uncomment for live stats flair (optional) -->
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanga&show_icons=true&theme=dracula&hide_border=true" alt="Stats"/>
+   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanga&theme=dracula&hide_border=true" alt="Streak"/>
+  -->
+</div>
+```
 
-| Type | Links |
-|------|-------|
-| **Professional** | [Portfolio](https://prasanga.com.np) · [LinkedIn](https://linkedin.com/in/prasanga) · [Email](mailto:contact@prasanga.com.np) |
-| **Development** | [GitHub](https://github.com/prasanga) · [Stack Overflow](https://stackoverflow.com/users/prasanga) |
-
----
-
-*Made with dedication and strong coffee.*
