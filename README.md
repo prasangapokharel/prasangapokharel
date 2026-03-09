@@ -1,45 +1,36 @@
 
 
 ```markdown
-<div align="center">
-  <img src="https://thumbs.dreamstime.com/b/vibrant-cyberpunk-scene-features-multiple-floating-displays-showing-web-content-connected-glowing-lines-composition-386063098.jpg" alt="Futuristic AI Network" width="800" style="border-radius:12px; margin-bottom:16px;" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4500&pause=900&color=00FFCC&center=true&vCenter=true&width=680&lines=Prasanga;Full+Stack+%26+Autonomous+AI+Engineer;Building+Thinking+Machines+in+2026" alt="Typing Intro" />
+# Prasanga — Full Stack Developer
+
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
+  <div>
+    <p style="margin:0;">
+      <em>I work on mono-repo folder structure to build scalable web applications and  APIsW.</em>
+    </p>
+  </div>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://prasanga.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-prasanga.com.np-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
-  </a> 
-  <a href="https://linkedin.com/in/prasanga">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="mailto:contact@prasanga.com.np">
-    <img src="https://img.shields.io/badge/Email-contact@prasanga.com.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a> 
-  <a href="https://github.com/prasanga">
-    <img src="https://img.shields.io/badge/GitHub-@prasanga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
 
 ---
 
-## 🤖 Who I Am — AI × Full Stack × Future
+## About
 
 ```typescript
-interface Prasanga2026 {
-  role:        "Full Stack Developer & Autonomous Agent Engineer";
-  basedIn:     "Nepal 🇳🇵";
-  purpose:     "Designing scalable systems and agents that reason, plan, and act independently";
-  focusNow:    "Autonomous Agent Engine — giving AI real agency and long-term memory";
-  philosophy:  "Mono-repo • Type-safe • Performant • Agent-first mindset";
-  energySource: "Black coffee, ambient synthwave, and recursive curiosity ☕🎧";
-}
+const prasanga = {
+    role        : "Full Stack Developer",
+    location    : "Nepal",
+    languages   : ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    frameworks  : ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
+    databases   : ["MySQL", "Supabase", "Redis"],
+    cloud       : ["Cloudinary", "Supabase", "Vercel"],
+    blockchain  : ["Smart Contracts", "Web3 Integration"],
+    currentFocus: "Autonomous Agent Engine",
+};
 ```
+
+---
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Autonomous%20Agents-In%20Progress-FF3366?style=flat-square&logo=brain&logoColor=white" alt="Agents"/>
