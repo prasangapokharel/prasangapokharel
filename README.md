@@ -28,7 +28,6 @@ const prasanga = {
     currentFocus: "Autonomous Agent Engine",
 };
 ```
-```markdown
 ---
 
 
