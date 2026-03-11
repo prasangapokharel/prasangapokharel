@@ -88,6 +88,40 @@ class Prasanga:
 
 ---
 
+---
+
+## Currently Working With
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://github.com/redmenIshab">
+          <img src="https://avatars.githubusercontent.com/u/17322104?s=130&v=4" width="80" height="80" style="border-radius:50%;" /><br/>
+          <strong>Ishab Redmen</strong>
+        </a><br/>
+        <sub><a href="https://github.com/redmenIshab">@redmenIshab</a></sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/abijeetraut1">
+          <img src="https://avatars.githubusercontent.com/u/63050833?v=4" width="80" height="80" style="border-radius:50%;" /><br/>
+          <strong>Abijeet Raut</strong>
+        </a><br/>
+        <sub><a href="https://github.com/abijeetraut1">@abijeetraut1</a></sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://github.com/prasangapokharel">
+          <img src="https://avatars.githubusercontent.com/u/138413854?s=130&v=4" width="80" height="80" style="border-radius:50%;" /><br/>
+          <strong>Prasanga Pokharel</strong>
+        </a><br/>
+        <sub><a href="https://github.com/prasangapokharel">@prasangapokharel</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <div align="center">
   <sub>91 public repos · Pro · Nepal · Building since 2023</sub><br/>
   <sub><i>Fuelled by strong coffee, open-source conviction, and the belief that code can change lives.</i></sub>
