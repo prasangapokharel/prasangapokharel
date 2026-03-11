@@ -95,21 +95,21 @@ class Prasanga:
     <tr>
       <td align="center" width="180">
         <a href="https://github.com/prasangapokharel">
-          <img src=".github/avatars/prasanga.svg" width="100" height="100" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/138413854?v=4" width="100" height="100" /><br/>
           <strong>Prasanga Pokharel</strong>
         </a><br/>
         <sub><a href="https://github.com/prasangapokharel">@prasangapokharel</a></sub>
       </td>
       <td align="center" width="180">
         <a href="https://github.com/redmenIshab">
-          <img src=".github/avatars/ishab.svg" width="100" height="100" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/17322104?v=4" width="100" height="100" /><br/>
           <strong>Ishab Redmen</strong>
         </a><br/>
         <sub><a href="https://github.com/redmenIshab">@redmenIshab</a></sub>
       </td>
       <td align="center" width="180">
         <a href="https://github.com/abijeetraut1">
-          <img src=".github/avatars/abijeet.svg" width="100" height="100" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/63050833?v=4" width="100" height="100" /><br/>
           <strong>Abijeet Raut</strong>
         </a><br/>
         <sub><a href="https://github.com/abijeetraut1">@abijeetraut1</a></sub>
