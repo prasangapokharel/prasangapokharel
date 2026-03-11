@@ -1,117 +1,94 @@
+<div align="center">
 
+# Prasanga Pokharel
 
+**Full-Stack Developer · Blockchain Engineer · AI Builder**
 
-# Prasanga — Full Stack Developer
+*Nepal — Building systems that scale, think, and last.*
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
-  <div>
-    <p style="margin:0;">
-      <em>I work on mono-repo folder structure to build scalable web applications and  APIsW.</em>
-    </p>
-  </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-prasangapokharel.com.np-00D4FF?style=flat-square&logo=globe)](https://prasangapokharel.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/prasangapokharel)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:prasangaramanpokharel@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-```typescript
-const prasanga = {
-    role        : "Full Stack Developer",
-    location    : "Nepal",
-    languages   : ["Python", "PHP", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-    frameworks  : ["Django", "FastAPI", "Flask", "Next.js", "shadcn/ui"],
-    databases   : ["MySQL", "Supabase", "Redis"],
-    cloud       : ["Cloudinary", "Supabase", "Vercel"],
-    blockchain  : ["Smart Contracts", "Web3 Integration"],
-    currentFocus: "Autonomous Agent Engine",
-};
+```python
+class Prasanga:
+    role        = "Full-Stack Developer"
+    location    = "Inaruwa, Sunsari — Nepal"
+    company     = "Prasanga Tech Pvt."
+    website     = "prasangapokharel.com.np"
+
+    languages   = ["Python", "TypeScript", "JavaScript", "PHP", "Rust", "SQL"]
+    frameworks  = ["FastAPI", "Django", "Next.js", "Flask", "React"]
+    databases   = ["PostgreSQL", "MySQL", "Redis", "Supabase"]
+    cloud       = ["Vercel", "Supabase", "Cloudinary", "GitHub Actions"]
+    blockchain  = ["ICP (Internet Computer)", "Web3", "Smart Contracts", "PHN Chain"]
+    ai          = ["LLM Orchestration", "RAG Pipelines", "Autonomous Agents", "NLP"]
+
+    current_focus = [
+        "Autonomous Agent Engine",
+        "Phonesium Network (PHN Blockchain)",
+        "AI-powered SaaS products",
+    ]
 ```
+
 ---
 
+## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Autonomous%20Agents-In%20Progress-FF3366?style=flat-square&logo=brain&logoColor=white" alt="Agents"/>
-   
-  <img src="https://img.shields.io/badge/Full%20Stack-Production%20Ready-00CC99?style=flat-square&logo=react&logoColor=white" alt="Full Stack"/>
-   
-  <img src="https://img.shields.io/badge/Web3%20%26%20Blockchain-Exploring-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" alt="Web3"/>
-   
-  <img src="https://img.shields.io/badge/Open%20Source-Active-10B981?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php,rust,html,css" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nextjs,react,tailwind,nodejs" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vercel,cloudinary,github" />
 </div>
 
-<br/>
+---
 
-## 🛠️ Current Tech Stack — 2026 Edition
+## What I Build
+
+| Domain | What I Do |
+|--------|-----------|
+| **Backend** | FastAPI & Django APIs at scale · REST + WebSockets · JWT/OAuth auth · Redis queues |
+| **Frontend** | Next.js 15 App Router · Server Components · shadcn/ui · TypeScript-first |
+| **Blockchain** | PHN (Phonesium Network) from scratch · ICP canisters · Web3 dApps |
+| **AI & Agents** | LLM chaining · RAG pipelines · Tool calling · Memory layers · News AI |
+| **DevTools** | PDF toolkits · Domain finders · System optimizers · CLI utilities |
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [phonesium-network](https://github.com/prasangapokharel/phonesium-network) | Production blockchain with PoW, wallets & tokens | Python |
+| [internet-computer-protocol](https://github.com/prasangapokharel/internet-computer-protocol) | ICP canisters & dApps on DFINITY | Rust · Kybra |
+| [news-crawler](https://github.com/prasangapokharel/news-crawler) | AI news scraper with RAG pipeline | Python · LLM |
+| [laptop-repair-system](https://github.com/prasangapokharel/laptop-repair-system) | Full-stack repair management system | Python · Flask |
+| [divine-docs](https://github.com/prasangapokharel/divine-docs) | All-in-one PDF converter & protector | Python · Flask |
+| [turbo-domain-finder](https://github.com/prasangapokharel/turbo-domain-finder) | Bulk domain availability checker | Python · Flask |
+| [portfolio](https://github.com/prasangapokharel/portfolio) | Personal portfolio — SEO optimised | HTML · CSS |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css,tailwind,nextjs,react" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,supabase,redis,mysql,vercel,cloudinary" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nodejs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasangapokharel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasangapokharel&theme=tokyonight&hide_border=true" height="165" />
 </div>
-
-### Mastery Zones
-- **Backend** — FastAPI & Django at scale • REST + WebSockets • Auth (JWT/OAuth) • Redis for caching & queues
-- **Frontend** — Next.js App Router + Server Components • shadcn/ui + Tailwind • TypeScript-first UIs
-- **AI & Agents** — LLM orchestration • Tool calling • Memory layers • Autonomous workflows
-- **Infra** — Supabase (Postgres + Auth + Realtime) • Cloudinary media pipeline • Vercel edge deployments
-- **Blockchain** — Smart contracts • Web3 integration • DApp frontends
-
-<br/>
-
-
-
-
-
-
-
-
-## 🚀 Active / In-Progress Builds
-
-| Focus Area                        | Status      | Key Technologies                     | Goal / Impact                              |
-|-----------------------------------|-------------|--------------------------------------|--------------------------------------------|
-| Autonomous Agent Engine           | 🔴 In Progress | LLM chaining • Memory • Tool use     | True agent autonomy — planning & execution |
-| Scalable Django + Channels Apps   | 🟢 Active   | Django • Celery • Redis              | Reliable, real-time enterprise backends    |
-| Ultra-fast FastAPI Services       | 🟢 Active   | FastAPI • Pydantic v2 • SQLModel     | Type-safe APIs with sub-10ms responses     |
-| Next.js + shadcn/ui Dashboards    | 🟢 Active   | Next.js 15 • Tailwind • Server Actions | Beautiful, performant admin & user UIs     |
-| Supabase Realtime + Edge Functions| 🟢 Active   | Supabase Realtime • Postgres Triggers| Instant sync & serverless logic            |
-| Web3 & Smart Contract Experiments | 🟡 Exploring| Solidity • ethers.js • WalletConnect | Bridging traditional web → decentralized   |
-
-<br/>
-
-
-
-
-
-
-
-
-## 🌌 Let's Build the Future Together
 
 <div align="center">
-  <a href="https://prasanga.com.np"><img src="https://img.shields.io/badge/🌐-Portfolio-00D4FF?style=for-the-badge" /></a> 
-  <a href="https://linkedin.com/in/prasanga"><img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a> 
-  <a href="https://github.com/prasanga"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github" /></a> 
-  <a href="mailto:contact@prasanga.com.np"><img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasangapokharel&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="140" />
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <i>Crafted with strong black coffee, neon-lit nights, and a dream of machines that truly think.</i><br/>
-  <sub>2026 — Era of Autonomous Intelligence</sub>
+  <sub>91 public repos · Pro · Nepal · Building since 2023</sub><br/>
+  <sub><i>Fuelled by strong coffee, open-source conviction, and the belief that code can change lives.</i></sub>
 </div>
-
-<br/>
-
-<div align="center">
-  <!-- Uncomment for live stats flair (optional) -->
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanga&show_icons=true&theme=dracula&hide_border=true" alt="Stats"/>
-   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanga&theme=dracula&hide_border=true" alt="Streak"/>
-  -->
-</div>
-```
-
