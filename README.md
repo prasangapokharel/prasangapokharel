@@ -89,8 +89,6 @@ class Prasanga:
 ---
 
 
----
-
 <div align="center">
   <sub>91 public repos · Pro · Nepal · Building since 2023</sub><br/>
   <sub><i>Fuelled by strong coffee, open-source conviction, and the belief that code can change lives.</i></sub>
